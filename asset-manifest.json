@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29c1d890.css",
+    "main.js": "/static/js/main.7d1debe3.js",
+    "static/js/787.d52532d6.chunk.js": "/static/js/787.d52532d6.chunk.js",
+    "static/media/globe.jpeg": "/static/media/globe.45fdcb2ab52e2ec86f2e.jpeg",
+    "static/media/australia.png": "/static/media/australia.aee91d1a08963a445385.png",
+    "static/media/us.jpeg": "/static/media/us.8e9a915fac46c22d8405.jpeg",
+    "static/media/south.png": "/static/media/south.5a9d27a10469b659c095.png",
+    "static/media/turkey.jpeg": "/static/media/turkey.dd6eee228365b371ab0d.jpeg",
+    "static/media/ukraine.png": "/static/media/ukraine.f6ecfead4cf7e4c68059.png",
+    "static/media/india.jpeg": "/static/media/india.669e065c800476b909bf.jpeg",
+    "static/media/japan.jpeg": "/static/media/japan.161dff1aef24ea107601.jpeg",
+    "static/media/russia.jpeg": "/static/media/russia.e8f1fbd29821829a2642.jpeg",
+    "static/media/newzea.png": "/static/media/newzea.3995e09cc30bc0c8b61b.png",
+    "static/media/uk.jpeg": "/static/media/uk.664a59259e19dcc287d3.jpeg",
+    "static/media/canada.jpeg": "/static/media/canada.97dfd548d27da8f8d0a7.jpeg",
+    "static/media/formback.png": "/static/media/formback.ac3a127997a8ad213c96.png",
+    "static/media/china.jpeg": "/static/media/china.f1203007ecfcb62a8685.jpeg",
+    "index.html": "/index.html",
+    "main.29c1d890.css.map": "/static/css/main.29c1d890.css.map",
+    "main.7d1debe3.js.map": "/static/js/main.7d1debe3.js.map",
+    "787.d52532d6.chunk.js.map": "/static/js/787.d52532d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c1d890.css",
+    "static/js/main.7d1debe3.js"
+  ]
+}
