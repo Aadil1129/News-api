@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.news-source-name {
+  background: rgb(239, 32, 32);
+  color: white;
+  font-weight: bold;
+  font-family: montserrat;
+  padding: 0.5rem;
+}
+.MuiPaper-root {
+  margin: auto;
+  width: 100%;
+}
+
+.MuiGrid-root {
+  margin: auto;
+  justify-content: center;
+}
+.MuiSvgIcon-root {
+  margin-bottom: -6px;
+}
+#ind-latest-news:hover {
+  cursor: pointer;
+}
+.home-main-page {
+  background-image: url("./images/globe.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.navbar-burger-menu {
+  z-index: 1;
+  color: black;
+  position: fixed;
+  top: 7%;
+  height: 100vh;
+  text-align: center;
+  background: white;
+}
+.navbar-menu {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding: 2rem;
+  margin-top: 2rem;
+  display: inline-block;
+}
+.MuiButtonBase-root {
+  float: right;
+  top: 2%;
+}
+.MuiButton-root {
+  margin: auto;
+}
+.MuiButton-root:hover {
+  transform: scale(1.02);
+}
+.navbar-menu-link {
+  color: black;
+  margin: 5px auto;
+  font-weight: bold;
+  font-size: 1rem;
+  display: block;
+  cursor: pointer;
+  font-family: montserrat;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+}
+.navbar-menu-link:hover {
+  text-decoration: underline;
+  color: lightcoral;
+}
+.formContainer {
+  padding: 3rem;
+  max-width: 600px;
+  background-image: url(./images/formback.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 0px 0px 16px 4px #ececec;
+  width: 80%;
+  text-align: center;
+}
+#demo-controlled-radio-buttons-group {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: montserrat;
+}
+.MuiOutlinedInput-root {
+  background: white;
+}
+.fullform {
+  margin: 1rem auto;
+  width: 100%;
+}
+.MuiTextField-root {
+  width: 100%;
+}
+.form-skills {
+  color: #666565;
+  font-family: montserrat;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+#outline-basic {
+  letter-spacing: 2px;
+}
+.MuiFormControlLabel-root {
+  width: 20%;
+}
+#demo-radio-buttons-group-label {
+  color: #565656;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: emoji;
+}
+.required-field {
+  color: red;
+  font-family: montserrat;
+  font-size: 15px;
+  font-weight: 500;
+}
+.MuiButton-root {
+  font-weight: bold;
+}
+.MuiInputLabel-root {
+  color: white;
+}
+#back-arrow {
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.footer {
+  background-color: rgb(37, 36, 36);
+  color: white;
+}
