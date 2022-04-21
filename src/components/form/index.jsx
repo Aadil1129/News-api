@@ -29,8 +29,7 @@ function Form() {
       newArr[2].value &&
       newArr[3].value &&
       newArr[4].value &&
-      newArr[5].value &&
-      newArr[6].value !== undefined
+      newArr[5].value !== undefined
     ) {
       alert("Data Store In Console");
       console.log(newArr);

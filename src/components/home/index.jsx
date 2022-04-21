@@ -275,7 +275,7 @@ export default function NewsApi() {
                   JP
                 </Avatar>
               }
-              title="Japan"
+              title="JAPAN"
             />
             <CardMedia
               component="img"
@@ -308,7 +308,7 @@ export default function NewsApi() {
                   NZ
                 </Avatar>
               }
-              title="NewZealand"
+              title="NEWZEALAND"
             />
             <CardMedia
               component="img"
@@ -341,7 +341,7 @@ export default function NewsApi() {
                   UK
                 </Avatar>
               }
-              title="United Kingdom"
+              title="UNITED KINGDOM"
             />
             <CardMedia
               component="img"
@@ -407,7 +407,7 @@ export default function NewsApi() {
                   SA
                 </Avatar>
               }
-              title="South Africa"
+              title="SOUTH AFRICA"
             />
             <CardMedia
               component="img"

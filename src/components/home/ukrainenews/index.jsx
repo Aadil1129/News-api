@@ -7,6 +7,7 @@ import axios from "axios";
 import Link from "@mui/material/Link";
 import Grid from "@mui/material/Grid";
 import LaunchIcon from "@mui/icons-material/Launch";
+import NewsAppBar from "../../header";
 
 export default function UkrNewsApi() {
   const [news, setNews] = useState([]);
@@ -25,6 +26,8 @@ export default function UkrNewsApi() {
 
   return (
     <div>
+      <NewsAppBar />
+      <div className="state-heading">Ukraine News</div>
       <Grid container spacing={4}>
         {news.map((value, index) => {
           return (

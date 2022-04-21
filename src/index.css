@@ -91,6 +91,7 @@ code {
   border-radius: 20px;
   box-shadow: 0px 0px 16px 4px #ececec;
   width: 80%;
+  margin-bottom: 2rem;
   text-align: center;
 }
 #demo-controlled-radio-buttons-group {
@@ -146,4 +147,11 @@ code {
 .footer {
   background-color: rgb(37, 36, 36);
   color: white;
+}
+.state-heading {
+  font-family: montserrat;
+  font-weight: 600;
+  font-size: 4rem;
+  text-align: center;
+  margin: 6rem auto;
 }

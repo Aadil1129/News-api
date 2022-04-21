@@ -47,7 +47,7 @@ export default function NewsAppBar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
-            World Latest News
+            World News
           </Typography>
           <Button
             variant="contained"

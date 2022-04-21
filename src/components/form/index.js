@@ -42,13 +42,5 @@ const formComponent = [
     placeholder: "Enter your Address",
     type: "text",
   },
-  {
-    id: "7",
-    label: "Skills",
-    required: true,
-    placeholder: "",
-    type: "checkbox",
-    options: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
-  },
 ];
 export default formComponent;
