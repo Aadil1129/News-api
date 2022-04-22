@@ -29,7 +29,7 @@ export default function AusNewsApi() {
     <div>
       <NewsAppBar />
       <div className="state-heading">Australia News</div>
-      <Grid container spacing={4}>
+      <Grid id="news-detail" container spacing={4}>
         {news.map((value, index) => {
           return (
             <Grid item key={index}>

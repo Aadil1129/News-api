@@ -30,10 +30,7 @@ export default function NewsApi() {
         container
         spacing={4}
         style={{
-          paddingTop: "6rem",
-          paddingBottom: "4rem",
-          paddingLeft: "2rem",
-          paddingRight: "2rem",
+          padding: "6rem 2rem 4rem 2rem",
         }}
       >
         <Grid item>
@@ -54,15 +51,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/ind">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News of India
                 </Button>
               </Link>
@@ -87,15 +76,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/aus">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News of Australia
                 </Button>
               </Link>
@@ -120,15 +101,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/us">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of United State
                 </Button>
               </Link>
@@ -153,15 +126,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/ru">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of Russia
                 </Button>
               </Link>
@@ -186,15 +151,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/ua">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of Ukraine
                 </Button>
               </Link>
@@ -219,15 +176,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/ca">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of Canada
                 </Button>
               </Link>
@@ -252,15 +201,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/cn">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of China
                 </Button>
               </Link>
@@ -285,15 +226,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/jp">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of Japan
                 </Button>
               </Link>
@@ -318,15 +251,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/nz">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of NewZealand
                 </Button>
               </Link>
@@ -351,15 +276,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/gb">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of United Kingdom
                 </Button>
               </Link>
@@ -384,15 +301,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/tr">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of Turkey
                 </Button>
               </Link>
@@ -417,15 +326,7 @@ export default function NewsApi() {
             />
             <CardContent>
               <Link href="/za">
-                <Button
-                  id="us-latest-button"
-                  variant="contained"
-                  style={{
-                    fontWeight: "bold",
-                    width: "100%",
-                    marginBottom: "1rem",
-                  }}
-                >
+                <Button id="us-latest-button" variant="contained" style={{}}>
                   Latest News Of South Africa
                 </Button>
               </Link>

@@ -31,7 +31,12 @@ function Form() {
       newArr[4].value &&
       newArr[5].value !== undefined
     ) {
-      alert("Data Store In Console");
+      window.confirm(
+        `
+         Hello ${newArr[0].value},
+        Your Email is : ${newArr[2].value},
+        All Data Store In Console`
+      );
       console.log(newArr);
       setRequired(false);
     } else {
@@ -62,6 +67,7 @@ function Form() {
           <Components data={data} setValue={setValue} handler={clickHandler} />
         </div>
       ))}
+
       <Button
         variant="contained"
         color="warning"

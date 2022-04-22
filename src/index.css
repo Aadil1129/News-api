@@ -59,12 +59,6 @@ code {
   float: right;
   top: 2%;
 }
-.MuiButton-root {
-  margin: auto;
-}
-.MuiButton-root:hover {
-  transform: scale(1.02);
-}
 .navbar-menu-link {
   color: black;
   margin: 5px auto;
@@ -154,4 +148,51 @@ code {
   font-size: 4rem;
   text-align: center;
   margin: 6rem auto;
+}
+#us-latest-button {
+  width: 100%;
+  margin-bottom: 1rem;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+#us-latest-button:hover {
+  transform: scale(1.02);
+  background: rgb(238, 75, 75);
+  font-weight: bold;
+}
+#footer-card-heading {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: montserrat;
+}
+#footer {
+  background-color: #c4c1c1;
+  align-items: center;
+  padding: 2rem;
+}
+.footer-globe {
+  margin-top: 1rem;
+  transform: rotate(360deg);
+  transition: all 5s ease-in-out;
+  animation: rotation 16s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#footer-card {
+  border-radius: 2px 50px 100px 50px;
+}
+#footer-state {
+  background: #c5c1c1;
+  box-shadow: 0px 0px;
+}
+#news-detail {
+  margin-bottom: 8rem;
 }

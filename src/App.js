@@ -12,6 +12,7 @@ import TurNewsApi from "./components/home/turkeynews";
 import SANewsApi from "./components/home/southanews";
 import NewsApi from "./components/home";
 import { Routes, Route } from "react-router-dom";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         <Route path="/tr" exact element={<TurNewsApi />} />
         <Route path="/za" exact element={<SANewsApi />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
