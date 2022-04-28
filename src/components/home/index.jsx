@@ -33,7 +33,7 @@ export default function NewsApi() {
           padding: "6rem 2rem 4rem 2rem",
         }}
       >
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -58,7 +58,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -83,7 +83,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -108,7 +108,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -133,7 +133,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -158,7 +158,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -183,7 +183,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -208,7 +208,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -233,7 +233,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -258,7 +258,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -283,7 +283,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid data-aos="fade-up" item>
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
@@ -308,7 +308,7 @@ export default function NewsApi() {
             </CardContent>
           </Card>
         </Grid>
-        <Grid item>
+        <Grid item data-aos="fade-up">
           <Card sx={{ maxWidth: 345 }}>
             <CardHeader
               avatar={
